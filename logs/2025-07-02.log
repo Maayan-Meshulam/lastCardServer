@@ -1,0 +1,37 @@
+[2025/07/02 18:17:31] PUT /users/68654d60d8e60df3f5cd63d8 400  -  3.344 ms | Validation Error: "email" is required
+[2025/07/02 18:17:53] PUT /users/68654d60d8e60df3f5cd63d8 400  -  3.337 ms | Validation Error: "email" is required
+[2025/07/02 18:26:01] PUT /users/68654d60d8e60df3f5cd63d8 400  -  5.264 ms | Validation Error: "email" is required
+[2025/07/02 18:31:03] PUT /users/68654d60d8e60df3f5cd63d8 400  -  2.726 ms | Validation Error: "email" is required
+[2025/07/02 18:35:27] PUT /users/68654d60d8e60df3f5cd63d8 400  -  2.636 ms | Validation Error: "email" is required
+[2025/07/02 18:35:37] GET /users/68654d60d8e60df3f5cd63d8 401  -  0.723 ms | Authentication Error: Please login
+[2025/07/02 18:35:37] GET /favicon.ico 404  -  0.484 ms | Path not found
+[2025/07/02 18:38:35] POST /users/login 400  -  78.866 ms | Authentication Error: Invalid email or password
+[2025/07/02 18:55:11] PUT /users/6865562ccfcfd66dd27a1393 400  -  3.762 ms | Validation Error: "email" is required
+[2025/07/02 18:59:18] GET /users/6865562ccfcfd66dd27a1393 401  -  0.826 ms | Authentication Error: Please login
+[2025/07/02 19:56:38] PUT /users/6865562ccfcfd66dd27a1393 400  -  10.102 ms | Validation Error: "email" is required
+[2025/07/02 19:57:31] PUT /users/6865562ccfcfd66dd27a1393 400  -  12.558 ms | Validation Error: "email" is required
+[2025/07/02 20:01:10] PUT /users/6865562ccfcfd66dd27a1393 400  -  6.166 ms | Validation Error: "email" is required
+[2025/07/02 20:01:55] PUT /users/6865562ccfcfd66dd27a1393 400  -  6.240 ms | Validation Error: "email" is required
+[2025/07/02 20:02:31] PUT /users/6865562ccfcfd66dd27a1393 400  -  6.609 ms | Validation Error: "password" is required
+[2025/07/02 20:04:25] PUT /users/6865562ccfcfd66dd27a1393 400  -  7.242 ms | Validation Error: "password" is required
+[2025/07/02 20:04:30] PUT /users/6865562ccfcfd66dd27a1393 400  -  6.164 ms | Validation Error: "isBusiness" is required
+[2025/07/02 20:07:47] PUT /users/68654d60d8e60df3f5cd63d8 400  -  5.952 ms | Validation Error: "email" is required
+[2025/07/02 20:08:53] PUT /users/68654d60d8e60df3f5cd63d8 400  -  2.982 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:09:54] PUT /users/68654d60d8e60df3f5cd63d8 400  -  5.422 ms | Validation Error: "email" is required
+[2025/07/02 20:10:12] PUT /users/68654d60d8e60df3f5cd63d8 400  -  3.800 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:11:10] PUT /users/68654d60d8e60df3f5cd63d8 400  -  8.540 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:11:25] PUT /users/68654d60d8e60df3f5cd63d8 400  -  4.224 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:12:39] PUT /users/68656875689cdf9a89694817 400  -  11.280 ms | Validation Error: "email" is required
+[2025/07/02 20:13:07] PUT /users/68656875689cdf9a89694817 400  -  3.936 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:15:06] PUT /users/68656875689cdf9a89694817 400  -  29.934 ms | Validation Error: "email" is required
+[2025/07/02 20:16:02] PUT /users/68656875689cdf9a89694817 400  -  32.719 ms | Validation Error: "email" is required
+[2025/07/02 20:23:51] PUT /users/68656875689cdf9a89694817 400  -  11.805 ms | Validation Error: "email" is required
+[2025/07/02 20:25:08] PUT /users/68656875689cdf9a89694817 400  -  4.762 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:30:18] PUT /users/68656875689cdf9a89694817 400  -  10.037 ms | Validation Error: "email" is required
+[2025/07/02 20:30:41] GET /users/68656875689cdf9a89694817 401  -  1.052 ms | Authentication Error: Please login
+[2025/07/02 20:31:43] PUT /users/68656875689cdf9a89694817 400  -  4.803 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:32:17] PUT /users/68656875689cdf9a89694817 400  -  3.507 ms | Validation Error: "email" is required
+[2025/07/02 20:33:26] PUT /users/68656875689cdf9a89694817 400  -  10.379 ms | Validation Error: "isBusiness" is required
+[2025/07/02 20:33:40] PUT /users/68656875689cdf9a89694817 400  -  5.087 ms | Authorization Error: Only the own user can edit is details
+[2025/07/02 20:35:45] PUT /users/68656875689cdf9a89694817 400  -  32.361 ms | Validation Error: "isBusiness" is required
+[2025/07/02 20:37:49] PUT /users/68656875689cdf9a89694817 400  -  11.377 ms | Validation Error: "isBusiness" is required

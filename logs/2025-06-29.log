@@ -1,0 +1,13 @@
+[2025/06/29 20:01:49] GET /users/ 403  -  9.777 ms | Authorization Error: Only admin user can get all users list
+[2025/06/29 20:04:36] GET /users/ 403  -  15.186 ms | Authorization Error: Only admin user can get all users list
+[2025/06/29 20:04:40] POST /users/ 400  -  540.422 ms | Mongoos Error: Invalid namespace specified: cardsServer/.users
+[2025/06/29 20:39:34] POST /users/login 400  -  60.604 ms | Authentication Error: User not exist
+[2025/06/29 20:40:17] POST /users/login 400  -  227.203 ms | Authentication Error: Invalid email or password
+[2025/06/29 20:41:09] POST /users/login 400  -  148.303 ms | Authentication Error: Invalid email or password
+[2025/06/29 20:41:11] POST /users/login 400  -  119.751 ms | Authentication Error: user validation failed: lockUntil: Cast to date failed for value "Invalid Date" (type Date) at path "lockUntil"
+[2025/06/29 20:41:13] POST /users/login 400  -  140.230 ms | Authentication Error: user validation failed: lockUntil: Cast to date failed for value "Invalid Date" (type Date) at path "lockUntil"
+[2025/06/29 20:41:14] POST /users/login 400  -  95.719 ms | Authentication Error: user validation failed: lockUntil: Cast to date failed for value "Invalid Date" (type Date) at path "lockUntil"
+[2025/06/29 20:41:52] POST /users/login 400  -  156.167 ms | Authentication Error: Invalid email or password
+[2025/06/29 20:42:03] POST /users/login 400  -  91.751 ms | Authentication Error: Invalid email or password
+[2025/06/29 20:42:05] POST /users/login 400  -  99.084 ms | Authentication Error: user validation failed: lockUntil: Cast to date failed for value "Invalid Date" (type Date) at path "lockUntil"
+[2025/06/29 20:42:13] POST /users/login 400  -  138.712 ms | Authentication Error: user validation failed: lockUntil: Cast to date failed for value "Invalid Date" (type Date) at path "lockUntil"
