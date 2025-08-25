@@ -1,0 +1,2 @@
+[2025/08/12 16:08:02] GET /tasks 404  -  10.698 ms | Path not found
+[2025/08/12 16:09:16] GET /tasks 404  -  1.410 ms | Path not found
